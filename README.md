@@ -1,18 +1,85 @@
+<!-- vscode-markdown-toc-config
+	numbering=false
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+<br>
 <p align="center">
-  <br>
-  <img width="400" src="./logo.png" alt="logo of vue-awesome repository">
-  <br>
-  <br>
+<a href="#" target="_blank">
+<img src="./logo.png" alt="logo of awesome vitepress" height="350" width="350"/>
+</a>
+<h1 align="center">Awesome VitePress</h1>
 </p>
 
-# Awesome VuePress [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<p align="center">
+A curated list of awesome things related to <b>VitePress</b>.🧑‍💻👩‍💻👨‍💻
+</p>
 
-> A curated list of awesome things related to VuePress
+## <a name='Category'></a>📝Category
 
-## [V1 versions](v1.md)
+<!-- vscode-markdown-toc -->
+- [📝Category](#category)
+- [📦Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [Tutorials](#tutorials)
+  - [Examples](#examples)
+- [🚀Plugins](#plugins)
+  - [Official Plugins](#official-plugins)
+  - [Community Plugins](#community-plugins)
+- [🌈Themes](#themes)
+  - [Official Themes](#official-themes)
+  - [Community Themes](#community-themes)
+- [💡Projects Using VitePress](#projects-using-vitepress)
+  - [Official Projects](#official-projects)
+  - [Blogging](#blogging)
+  - [Open Source](#open-source)
+- [🌟Plan](#plan)
+- [🖊️License](#️license)
 
-> For awesome things related to VuePress@v1, please [visit v1 page](v1.md).
+## <a name='Resources'></a>📦Resources
 
-## [V2 versions](v2.md)
+### <a name='OfficialResources'></a>Official Resources
 
-> For awesome things related to VuePress@v2, please [visit v2 page](v2.md).
+- [GitHub Repo](https://github.com/vuejs/vitepress)
+- [Docs - Official Guide](https://vitepress.vuejs.org/guide/what-is-vitepress)
+- [Docs - Config Reference](https://vitepress.vuejs.org/config/introduction)
+
+### <a name='Tutorials'></a>Tutorials
+
+### <a name='Examples'></a>Examples
+
+## <a name='Plugins'></a>🚀Plugins
+
+### <a name='OfficialPlugins'></a>Official Plugins
+
+### <a name='CommunityPlugins'></a>Community Plugins
+
+<!-- duplicate plugins with same feature -->
+
+<!-- This is not end of the list, place your plugin above. -->
+
+## <a name='Themes'></a>🌈Themes
+
+### <a name='OfficialThemes'></a>Official Themes
+
+### <a name='CommunityThemes'></a>Community Themes
+
+## <a name='ProjectsUsingVitePress'></a>💡Projects Using VitePress
+
+### <a name='OfficialProjects'></a>Official Projects
+
+### <a name='Blogging'></a>Blogging
+
+> Blog websites that use VitePress.
+
+### <a name='OpenSource'></a>Open Source
+
+> Documentation websites that use VitePress.
+
+## 🌟Plan
+
+- [ ] Custom project logo.
+
+## <a name='License'></a>🖊️License
+
+MIT License © 2022 [MIT](./LICENSE)
