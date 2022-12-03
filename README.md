@@ -46,13 +46,21 @@ A curated list of awesome things related to <b>VitePress</b>.🧑‍💻👩‍�
 
 ### <a name='Tutorials'></a>Tutorials
 
+- [How to Build a Modern Documentation Site with VitePress](https://www.freecodecamp.org/news/how-to-build-a-modern-documentation-site-with-vitepress/)
+- [Write Beautiful Documentation Quickly with VitePress - LearnVue](https://learnvue.co/tutorials/write-docs-with-vitepress)
+
 ### <a name='Examples'></a>Examples
+
+- [bowencool/create-vitepress-demo: 基于 vitepress 扩展更专业的 Demo 演示能力的文档方案](https://github.com/bowencool/create-vitepress-demo#readme)
 
 ## <a name='Plugins'></a>🚀Plugins
 
 ### <a name='OfficialPlugins'></a>Official Plugins
 
 ### <a name='CommunityPlugins'></a>Community Plugins
+
+- [emersonbottero/vitepress-plugin-search: Provide local search to your documentation site.](https://github.com/emersonbottero/vitepress-plugin-search#readme)
+- [Merlin218/vitepress-auto-nav-sidebar: 自动生成vitepress导航栏和侧边栏配置](https://github.com/Merlin218/vitepress-auto-nav-sidebar)
 
 <!-- duplicate plugins with same feature -->
 
@@ -68,9 +76,13 @@ A curated list of awesome things related to <b>VitePress</b>.🧑‍💻👩‍�
 
 ### <a name='OfficialProjects'></a>Official Projects
 
+- [VitePress | Vite & Vue Powered Static Site Generator](https://vitepress.vuejs.org/)
+
 ### <a name='Blogging'></a>Blogging
 
 > Blog websites that use VitePress.
+
+- [Code More Create](https://blog.merlin218.top/)
 
 ### <a name='OpenSource'></a>Open Source
 
@@ -78,7 +90,7 @@ A curated list of awesome things related to <b>VitePress</b>.🧑‍💻👩‍�
 
 ## 🌟Plan
 
-- [ ] Custom project logo.
+- [x] Custom project logo.
 
 ## <a name='License'></a>🖊️License
 
